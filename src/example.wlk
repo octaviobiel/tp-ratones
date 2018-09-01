@@ -92,6 +92,7 @@ object terere {
 }
 
 object cianuro {
+	var veneno
 	method rendimiento(cant){
 		return 0
 	}
